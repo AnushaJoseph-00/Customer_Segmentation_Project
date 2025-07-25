@@ -17,10 +17,10 @@ This project performs customer segmentation using KMeans clustering on customer 
 
 Explore the customer segmentation interactively via this dashboard:
 
-![Dashboard Screenshot](Screenshot 2025-07-25 143354.png)
-![Dashboard Screenshot](Screenshot 2025-07-25 143430.png)
-![Dashboard Screenshot](Screenshot 2025-07-25 143642.png)
-![Dashboard Screenshot](Screenshot 2025-07-25 143717.png)
+![Dashboard 1](Screenshot 2025-07-25 143354.png)
+![Dashboard 2](Screenshot 2025-07-25 143430.png)
+![Dashboard 3](Screenshot 2025-07-25 143642.png)
+![Dashboard 4](Screenshot 2025-07-25 143717.png)
 
 
 ## Data
