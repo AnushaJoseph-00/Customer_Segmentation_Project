@@ -20,6 +20,9 @@ Explore the customer segmentation interactively via this dashboard:
 
 <img width="598" height="402" alt="Screenshot 2025-07-25 143354" src="https://github.com/user-attachments/assets/f459517a-fe02-492e-bcd3-df0a73050c01" />
 
+<img width="598" height="402" alt="Screenshot 2025-07-25 143717" src="https://github.com/user-attachments/assets/435b7721-43ae-4f4c-ba5b-717665844e17" />
+
+
 <img width="598" height="402" alt="Screenshot 2025-07-25 143430" src="https://github.com/user-attachments/assets/1db91b41-f5b9-46f4-9007-88a7b48ded99" />
 
 <img width="598" height="402" alt="Screenshot 2025-07-25 143642" src="https://github.com/user-attachments/assets/6dc55ca7-75ac-4cf1-af19-8eaec92460d7" />
